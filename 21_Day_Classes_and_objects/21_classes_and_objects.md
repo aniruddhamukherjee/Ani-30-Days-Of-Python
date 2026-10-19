@@ -19,6 +19,7 @@
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 Day 21](#-day-21)
+  - [📚 In-Depth Topic Modules](#-in-depth-topic-modules)
   - [Classes and Objects](#classes-and-objects)
     - [Creating a Class](#creating-a-class)
     - [Creating an Object](#creating-an-object)
@@ -34,6 +35,26 @@
     - [Exercises: Level 3](#exercises-level-3)
 
 # 📘 Day 21
+
+## 📚 In-Depth Topic Modules
+
+For a comprehensive, modular breakdown of each topic in this section, explore the dedicated module guides:
+
+| # | Topic | File | Description |
+|---|---|---|---|
+| 01 | **Python OOP** | [01_python_oop.md](./01_python_oop.md) | Object-oriented paradigm, procedural vs OOP, and the 4 core pillars |
+| 02 | **Python Classes/Objects** | [02_python_classes_objects.md](./02_python_classes_objects.md) | Class blueprints, instantiation, class vs instance attributes, and inspection |
+| 03 | **Python \_\_init\_\_ Method** | [03_python_init_method.md](./03_python_init_method.md) | Object initialization, `__new__` vs `__init__`, default arguments, and validation |
+| 04 | **Python self Parameter** | [04_python_self_parameter.md](./04_python_self_parameter.md) | Instance reference, behind-the-scenes mechanics, and sibling method calls |
+| 05 | **Python Class Properties** | [05_python_class_properties.md](./05_python_class_properties.md) | `@property`, getters, setters, deleters, and computed attributes |
+| 06 | **Python Class Methods** | [06_python_class_methods.md](./06_python_class_methods.md) | Instance vs `@classmethod` vs `@staticmethod`, and factory constructors |
+| 07 | **Python Magic Methods** | [07_python_magic_methods.md](./07_python_magic_methods.md) | Dunder methods, `__str__`/`__repr__`, operator overloading, and protocols |
+| 08 | **Python Inheritance** | [08_python_inheritance.md](./08_python_inheritance.md) | Subclassing, `super()`, method overriding, inheritance types, and MRO |
+| 09 | **Python Polymorphism** | [09_python_polymorphism.md](./09_python_polymorphism.md) | Polymorphism, duck typing, abstract base classes (`abc`), and design patterns |
+| 10 | **Python Encapsulation** | [10_python_encapsulation.md](./10_python_encapsulation.md) | Public, protected (`_`), private (`__`), name mangling, and data hiding |
+| 11 | **Python Inner Classes** | [11_python_inner_classes.md](./11_python_inner_classes.md) | Nested classes, instantiation, outer references, and real-world patterns |
+
+---
 
 ## Classes and Objects
 
